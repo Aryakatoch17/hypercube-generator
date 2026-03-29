@@ -16,3 +16,6 @@ exports/
 
 # Temporary Office files
 ~$*.docx
+
+.vercel
+.env*.local
