@@ -102,6 +102,14 @@ If your shell cannot resolve streamlit directly, run:
 python -m streamlit run app.py
 ```
 
+## Live Deployment
+
+This project is deployed on Streamlit Cloud.
+
+- Live app URL: https://share.streamlit.io/
+
+If you want this README to point to your exact app subdomain, replace the URL above with your deployed Streamlit app link.
+
 ## Run CLI Demo
 
 ```bash
