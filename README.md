@@ -106,7 +106,6 @@ python -m streamlit run app.py
 
 This project is deployed on Streamlit Cloud.
 
-- Live app URL: https://share.streamlit.io/
 - Live app URL: https://hypercube-generator-8sab4lo6vmqb6xoxjyzhsz.streamlit.app/
 
 ## Run CLI Demo
