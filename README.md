@@ -107,8 +107,7 @@ python -m streamlit run app.py
 This project is deployed on Streamlit Cloud.
 
 - Live app URL: https://share.streamlit.io/
-
-If you want this README to point to your exact app subdomain, replace the URL above with your deployed Streamlit app link.
+- Live app URL: https://hypercube-generator-8sab4lo6vmqb6xoxjyzhsz.streamlit.app/
 
 ## Run CLI Demo
 
